@@ -8,7 +8,8 @@ import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
 import { useEffect } from "react";
 import HoverLinks from "./HoverLinks";
-import resume from "/Users/sparshchakraborty/Documents/sparsh-portfolio-main/src/assets/Sparsh (1).pdf"
+import resume from "/Sparsh.pdf"
+
 
 const SocialIcons = () => {
   useEffect(() => {
