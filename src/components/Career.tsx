@@ -15,7 +15,7 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Enterprise Associate</h4>
+                <h4>Enterprise Associate Engineer</h4>
                 <h5>Unisys India Pvt. Ltd.</h5>
               </div>
               <h3>2020</h3>
@@ -41,7 +41,7 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Enterprise Sr System Associate</h4>
+                <h4>Enterprise Sr System Engineer</h4>
                 <h5>Unisys India Pvt. Ltd.</h5>
               </div>
               <h3>NOW</h3>
