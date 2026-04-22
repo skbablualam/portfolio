@@ -6,7 +6,7 @@ import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
 import { useEffect } from "react";
 import HoverLinks from "./HoverLinks";
-import resume from "/Sparsh.pdf"
+import resume from "/Bablu_Alam_Cloud_DevOps_Engineer_CV_3.pdf"
 
 
 const SocialIcons = () => {
