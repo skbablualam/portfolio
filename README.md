@@ -1,6 +1,6 @@
 # 🚀 Bablu Alam - Enterprise Analyst / DevOps Engineer Portfolio
 
-![Portfolio-Preview](public/images/preview.png)
+![Portfolio-Preview]()
 
 This is my personal portfolio showcasing my experience as an Enterprise Analyst and DevOps Engineer, focusing on cloud infrastructure, automation, and scalable system design.
 
@@ -106,7 +106,7 @@ This project is deployed using **Vercel** with automatic deployments on every pu
 
 ## 📬 Contact
 
-📧 [sparshc2018@gmail.com](mailto:sparshc2018@gmail.com)
+📧 [bablu030397@gmail.com](mailto:bablu030397@gmail.com)
 📍 Bangalore, India
 
 ---
