@@ -1,16 +1,14 @@
 import "./styles/About.css";
 
-const About = () => {
+export const About = () => {
   return (
     <div className="about-section" id="about">
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Enterprise Sr System Engineer with 6+ years of experience in system engineering, DevOps, and cloud operations. Skilled in AWS (EC2, Lambda, DynamoDB), Infrastructure as Code (Terraform, CloudFormation), and CI/CD automation. Proficient in Python and Bash, with working knowledge of Golang and Ruby. Experienced in building scalable, highly available systems, improving reliability, and driving automation to reduce operational overhead.
+          Enterprise Analyst/DevOps Engineer with over 6.5+ years of experience in system engineering, DevOps, and cloud operations. Strong expertise in designing, automating, and operating scalable infrastructure using Infrastructure as Code practices with Terraform and CloudFormation. Hands-on experience with AWS services including EC2, Lambda, and DynamoDB, focusing on high availability, uptime, and reliability. Skilled in CI/CD automation, configuration management, and DevOps & SRE operational practices. Proficient in Python and Bash scripting, with working knowledge of Golang and Ruby.
         </p>
       </div>
     </div>
   );
 };
-
-export default About;
